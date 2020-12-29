@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Baby Sheep - White Noise</string>
+    <string name="about">
+        \n
+        Baby Sheep v1.0.0\n\n
+
+        Dedicated to my daughter Mira.\n\n
+
+        Donations\n
+        Paypal: paypal.me/fortesp\n
+        BTC: 1MPAm36PMRvdAQzT89bXztpSc7jxRUsyn3\n
+        Thank you.\n\n
+
+        Contact:\n
+        pedro.daniel.g@gmail.com
+        \n\n
+
+        Copyright 2021 Baby Sheep\n
+        http://www.apache.org/licenses/LICENSE-2.0\n\n
+    </string>
+</resources>
